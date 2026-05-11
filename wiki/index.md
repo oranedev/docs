@@ -67,6 +67,7 @@
 | [[Conversational AI Compliance]] | The LinkedIn content thesis: enterprise AI deployments have a compliance gap | [[brand_positioning]] |
 | [[Frontier Operations]] | Personal brand identity — operating at the edge of what's possible | [[brand_positioning]] |
 | [[LLM Knowledge Base]] | External brain system: raw → wiki → query → file answers back | [[brand_positioning]] |
+| [[EU AI Act Annex IV]] | Mandatory technical documentation standard for high-risk AI systems | [[eu_ai_act_annex_iv]] |
 
 ### 🔄 Brain Protocols
 
@@ -106,7 +107,7 @@
 | Platform Architecture | 1 | 6 | Solana/Web3 layer not yet detailed |
 | Funding Intelligence | 1 | 10 | NSERC, BDC, OCE not yet detailed |
 | Venture Operations | 1 | 9 | Pitch deck, competitive analysis stubs only |
-| Personal Brand | 1 | 4 | LinkedIn strategy, content calendar missing |
+| Personal Brand | 1 | 5 | LinkedIn strategy, content calendar missing |
 | Brain Protocols | 1 | 5 | Complete |
 
 ---
